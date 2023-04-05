@@ -1390,7 +1390,7 @@ Cuando vayas a la pantalla de para observar si todo funciona correctamente te va
 
 Uncaught ReferenceError: Cannot access 'ProductTitle' before initialization 
 
-¿ Por qué diablos pasa esto ?
+¿ Por qué diablos pasa esto ?  
 El problema esta en esta parte del código en nuestro PorductCard
 
 ProductCard.Title  = ProductTitle;
