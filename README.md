@@ -1,6 +1,6 @@
 # Apunte de Patrones-de-Componentes--React
 
-Compound Component Pattern
+Compound Component Pattern  
 La idea detrás de este repo es entender el uso del patrón Compound Component Pattern, éste nos da una forma de crear nuestros componentes de una determinada manera y obtener determinados beneficios. En este caso nos permite manejar la información desde un componente madre hacia un componente hijo teniendo control total de sus children.
 
 Si ya tenés el repositorio en tu computadora
